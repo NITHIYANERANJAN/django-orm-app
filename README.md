@@ -1,11 +1,10 @@
 # Django ORM Web Application
-![](./diagram.png)
+
 ## AIM
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
-
-Include your ER diagram here
+[](./diagram.png)
 
 ## DESIGN STEPS
 
@@ -58,8 +57,6 @@ Change the url of the github remote repository by the command git remote set-url
 
 ### STEP 17:
 Push the changes in the branch github repository by the command git push origin main
-
-Write your own steps
 
 ## PROGRAM
 ### models.py
